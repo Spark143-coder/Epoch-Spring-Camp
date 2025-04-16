@@ -20,7 +20,3 @@ A set of latitude and longitude points (e.g., cities or coordinates in Karnataka
 
 Output
 Clusters of data points, each associated with a specific centroid
-
-Visualization on a map (optional in code)
-
-🚀 How to Run
